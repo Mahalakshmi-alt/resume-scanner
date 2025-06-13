@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Azure Cloud Engineer",
+    "skills": ["Azure", "Cloud", "Virtual Machines", "Resource Group", "ARM Templates"]
+  },
+  {
+    "title": "Data Analyst",
+    "skills": ["Excel", "Power BI", "SQL", "Data Cleaning", "Python"]
+  },
+  {
+    "title": "AI Developer",
+    "skills": ["Python", "Machine Learning", "Azure AI", "Cognitive Services", "NLP"]
+  },
+  {
+    "title": "DevOps Engineer",
+    "skills": ["CI/CD", "GitHub Actions", "Docker", "Kubernetes", "Azure Pipelines"]
+  }
+]
+
